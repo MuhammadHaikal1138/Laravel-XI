@@ -1,0 +1,22 @@
+.jumbotron {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 550px;
+    margin-left: 20px;
+}
+.btn {
+    padding: 10px 20px;
+}
+.btn a {
+    color: white;
+    text-decoration: none;
+}
+.kartu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.card {
+    margin: 5px 5px;
+}

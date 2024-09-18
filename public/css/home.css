@@ -1,0 +1,17 @@
+.isi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 510px;
+    margin-left: 20px;
+}
+.muncul {
+    width: 70%;
+    box-shadow: 2px 2px 3px 4px #b3b1b1;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: white;
+}
+body {
+    background-image: url(https://lh3.googleusercontent.com/p/AF1QipO-4UatchH6ByPghm9XRUyp2pJ1oSgwT_OZHKi5=s1360-w1360-h1020);
+}
